@@ -21,6 +21,6 @@
 
 
 <p align="left">&nbsp;
-  <img align="left" width="480" src="https://github-readme-stats.vercel.app/api?username=anshika010&show_icons=true&locale=en" alt="anshika010" />
-  <img align="right" width="480" src="https://github-readme-streak-stats.herokuapp.com/?user=anshika010&count_private=true" alt="anshika010" />
+  <img align="left" width="400" src="https://github-readme-stats.vercel.app/api?username=anshika010&show_icons=true&locale=en" alt="anshika010" />
+  <img align="right" width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=anshika010&count_private=true" alt="anshika010" />
 </p>

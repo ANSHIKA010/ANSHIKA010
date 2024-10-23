@@ -13,8 +13,9 @@
 <p align="left">
 <a href="https://linkedin.com/in/anshika shrivastava" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anshika shrivastava" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/u/sanshikas010" target="blank"><img align="center" src="https://assets.leetcode.com/static_assets/public/images/LeetCode_logo_rvs.png" alt="sanshikas010" height="40" width="40" /></a>
-<a href="https://www.codechef.com/users/anshika_2201" target="blank"><img align="center" src="https://cdn.codechef.com/images/cc-logo.svg" alt="anshika_2201" height="40" width="40" /></a>
 <a href="https://www.hackerrank.com/sanshikas010" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="sanshikas010" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/anshika_2201" target="blank"><img align="center" src="https://cdn.codechef.com/images/cc-logo.svg" alt="anshika_2201" height="40" width="40" /></a>
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>

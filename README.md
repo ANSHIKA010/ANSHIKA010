@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Anshika Shrivastava</h1>
-<h2 align="center">An Application Developer | Computer Science Enthusiast | Final Year Engineering Student</h2>
+<h2 align="center">Application Developer | Computer Science Enthusiast | Final Year Engineering Student</h2>
 <img align="right" alt="Coding" width="400" height="250" src="https://github.com/ANSHIKA010/ANSHIKA010/assets/99765179/848f7072-6ec7-4cf4-9140-3cc9545bf0af"/>
 
 
